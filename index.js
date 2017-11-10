@@ -29,7 +29,7 @@ var FACTS = [
     "February 4th is the National Ice Cream for Breakfast Day.",
     "Sorbet is like ice cream but contains no milk.".
     "About 9 percent of all the milk produced by U.S. dairy farmers is used to produce ice cream.",
-    "Former British Prime Minister Margaret Thatcher was part of the team that first invented the method of making soft serve ice cream.",,
+    "Former British Prime Minister Margaret Thatcher was part of the team that first invented the method of making soft serve ice cream.",
     "In 1985, the biggest ice cream sundae was made in California. It stood twelve feet tall and was made with 4,667 gallons of ice Cream.",
     "Some weird flavors of ice cream include maple bacon, beer flavored, and pepperoni pizza."
 ];
